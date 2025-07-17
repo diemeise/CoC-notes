@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "null",
     },
     locale: "en-US",
-    baseUrl: "wanda.lumon.pro",
+    baseUrl: "wanda.callofuwu.de",
     ignorePatterns: ["private", "templates", ".obsidian", "Sterling Swanson", "z_Templates", "Charaktere/Investigators/Wanda*"],
     defaultDateType: "modified",
     theme: {

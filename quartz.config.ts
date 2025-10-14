@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "wanda.callofuwu.de",
-    ignorePatterns: ["private", "templates", ".obsidian", "Sterling Swanson", "z_Templates", "Charaktere/Investigators/Wanda*"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Sterling Swanson", "z_Templates", "Charaktere/Investigators/Wanda*","Briefe"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

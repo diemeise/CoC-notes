@@ -1,6 +1,6 @@
 # Peru
 ## Sonnenhut
-Gekauft am [[19.03.1921 - Samstag]] in Peru. Zusammen mit [[Sybill Blackhawk]].
+Gekauft am [[19.03.1921 - Samstag]] in Peru. Zusammen mit [[Sybil Blackhawk]].
 
 Ein sehr großer Sonnenhut von einem lokalen Händler. Er ist bunt verziert und erinnert von der Form an einen kleinen Sombrero.
 

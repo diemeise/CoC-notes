@@ -18,6 +18,9 @@ Vorgesetzer [[Captain Dr Waltson Robson]]
 
 
 # Aussehen
+Cute
+Sybill steht auf ihn hihi
+![[Pasted image 20251017221946.png]]
 
 --- 
 # Hintergrund

@@ -16,7 +16,7 @@ Gerichtsmediziner / Forensiker aus Lima.
 
 # Was denkt Wanda
 Etwas hochnäßig und sehr neugierig.
-
+Sehr stur. Paranoid.
 # Aussehen
 
 --- 

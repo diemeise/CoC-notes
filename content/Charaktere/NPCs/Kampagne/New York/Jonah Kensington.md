@@ -13,6 +13,7 @@ tags:
 Todesdatum: 
 Todesursache:
 ---
+#Verleger
 # Rolle
 Verleger von [[Jackson Elias]]. Hat seine Bücher herausgebracht und Notizen verwaltet
 

@@ -9,3 +9,8 @@ Status: Lebend
 
 Aussehen:
 
+Hat Geschichte studiert 
+
+
+## Hintergrund
+Schlüsselgegenstand: 2 Katzen in Arkham, eine schwarz eine mit weißen Flecken.

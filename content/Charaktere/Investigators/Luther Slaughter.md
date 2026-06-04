@@ -3,7 +3,7 @@
 Gespielt von: Pranay 
 Alter: 
 Beruf: Barkeeper
-Wohnort:
+Wohnort: Arkham
 Status: Lebend
 
 Aussehen:

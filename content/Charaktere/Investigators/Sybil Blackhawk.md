@@ -4,6 +4,7 @@ Gespielt von: Eileen
 Alter: 24
 Beruf: Student
 Wohnort: Bosten
+Geburtsort: Arkham
 Status: Lebend
 
 Aussehen:
